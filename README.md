@@ -1,5 +1,3 @@
-![alt text](<Sistema de Reembolso.png>)
-
 - By Dev Eduardo José Marinho 
 
 - FullStack - aluno da Plataforma Rocketseat,
