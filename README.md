@@ -1,31 +1,54 @@
+# 💸 Sistema de Reembolso
 
+Landing page projetada para coletar solicitações de reembolso de forma rápida e organizada. Ideal para uso em eventos, cursos, grupos de pesquisa ou qualquer contexto que envolva ressarcimento de despesas.
 
-💸 Sistema de Reembolso
-Uma landing page intuitiva e interativa para gerenciamento de reembolsos, desenvolvida como parte da jornada FullStack na plataforma Rocketseat.
+🔗 [Visualizar projeto](https://edujmarinho.github.io/Sistema-de-Reembolso/)
 
+---
 
-📌 Sobre o Projeto
-Este projeto foi criado com foco no portfólio, demonstrando habilidades em HTML, CSS e JavaScript. A proposta é construir uma interface limpa e objetiva que facilite o uso e proporcione uma experiência agradável ao usuário.
+## 📝 Sobre o Projeto
 
-🎯 Objetivo
-Criar uma landing page para um sistema de reembolso com:
+Este projeto tem como objetivo:
+- Oferecer um formulário simples e eficiente para reembolso  
+- Capturar dados como nome, justificativa, valores e comprovantes  
+- Garantir usabilidade em diversos dispositivos com layout responsivo  
+- Transmitir profissionalismo com um design clean e intuitivo
 
-Layout simples e funcional
+---
 
-Navegação intuitiva
+## 🛠️ Tecnologias Utilizadas
 
-Recursos interativos
+- **HTML5** – Estrutura semântica do formulário  
+- **CSS3** – Estilização moderna e responsiva  
+- **Google Fonts** – Tipografia elegante  
+- **Flexbox/Grid** – Para organização visual dos elementos  
 
-Boa estrutura visual e de código
+---
 
-🚀 Tecnologias Utilizadas
-HTML
+## 🧩 Funcionalidades
 
-CSS
+- Campos de texto e seleção bem distribuídos  
+- Área para justificativa de solicitação  
+- Botão de envio funcional com retorno visual  
+- Estética minimalista para foco nos dados
 
-JavaScript
+---
 
-📚 Autor
-Desenvolvido por Eduardo José Marinho, aluno da Rocketseat, apaixonado por tecnologia e evolução contínua.
+## 💡 Melhorias Futuras
 
-“Construir, errar, refatorar, aprender: esse é o caminho do Dev.” – Edu Marinho
+- Validação de campos com JavaScript  
+- Integração com backend (Google Sheets, banco de dados)  
+- Upload de comprovante de despesa  
+- Modo escuro e acessibilidade aprimorada  
+- E-mails automáticos de confirmação
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido com 💙 por [Eduardo Marinho](https://github.com/edujmarinho)
+
+---
+
+> Sugestões? Colaborações? Melhorias?  
+> Faça um *fork*, personalize e envie seu *pull request*! 🚀  
