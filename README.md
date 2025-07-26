@@ -1,4 +1,4 @@
-![Preview do Projeto](<Sistema de Reembolso.png>)
+
 
 💸 Sistema de Reembolso
 Uma landing page intuitiva e interativa para gerenciamento de reembolsos, desenvolvida como parte da jornada FullStack na plataforma Rocketseat.
